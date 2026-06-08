@@ -1,0 +1,6 @@
+{
+  "name": "google-cloud-terraform-neo4j",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Terraform module for Neo4j on GCP (Community/Enterprise/Marketplace)"
+}
